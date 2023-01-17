@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Flutter Quickstart</title>
+    <url>/2023/01/16/flutter-quickstart/</url>
+    <content><![CDATA[<p>I’ll use this page to record my learning path of flutter</p>
+]]></content>
+      <categories>
+        <category>Mobile development</category>
+      </categories>
+      <tags>
+        <tag>flutter</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How to build a personal blog website</title>
-    <url>/2023/01/16/hello-world/</url>
+    <url>/2023/01/16/hexo/</url>
     <content><![CDATA[<p>Blogs are important for developers. It can be used to record your learning path, present your achievements, serve as your personal tutorial, etc. I didn’t realize this until today. We have many ways to build a personal blog. You can use blogging platforms such as CSDN, cnblogs. You can also use an automated website builder such as WordPress. I choose hexo because it’s simple, easy to set up, and free to deploy on GitHub. This post will document how I installed hexo, wrote my first page and deploy it on GitHub.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Install-hexo"><a href="#Install-hexo" class="headerlink" title="Install hexo"></a>Install hexo</h3><blockquote>
 <p>Make sure you have node.js and git environment installed</p>
@@ -90,11 +102,11 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
 <p>If GitHub is too hard to connect, I recommend Gitee, though its community environment is not very good…</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Flutter Quickstart</title>
-    <url>/2023/01/16/flutter-quickstart/</url>
-    <content><![CDATA[<p>I’ll use this page to record my learning path of flutter</p>
-]]></content>
+      <categories>
+        <category>Automatic website building</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
   </entry>
 </search>
